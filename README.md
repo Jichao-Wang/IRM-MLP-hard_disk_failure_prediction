@@ -1,10 +1,10 @@
 # IRM-MLP-hard_disk_failure_prediction
 Code for project of course SDSC6002, hard disk failure prediction based on IRM.
 
-Reference & Thanks:
+## Reference & Thanks:
 1. https://github.com/facebookresearch/InvariantRiskMinimization
 
-# Cite as
+## Cite as
 ```
 @INPROCEEDINGS{HIRM,
   author={Wang, Jichao and Zhang, Ran and Qi, Guanqiang and Hong, Lanqing},
